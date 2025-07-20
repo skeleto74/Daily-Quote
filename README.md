@@ -1,17 +1,18 @@
-# 🌟 Daily Quote Website
+# 🌟 Daily Quote Website (Enhanced)
 
-This is a simple motivational quote generator built with HTML, CSS, and JavaScript.  
-It shows a new quote every time you click the **"New Quote"** button.
+A beautiful motivational quote generator that:
+- Plays a sound when a quote is shown
+- Has a video background
+- Works on mobile devices
 
-### 🚀 Live Example
-When published on GitHub Pages, it will be available at:
-```
+### 🚀 Live Page:
 https://skeleto74.github.io/quote-website/
-```
 
 ---
 
-### 📁 Files
-- `index.html` – the main web page
-- `style.css` – styling and layout
-- `script.js` – JavaScript for quote functionality
+### 📁 Files Included
+- `index.html` – main webpage
+- `style.css` – styling
+- `script.js` – logic and sound
+- `click.mp3` – sound effect (you can replace it)
+- `background.mp4` – background video (you can replace it)
